@@ -11,7 +11,7 @@ public class RestfulSpringExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	hi
+		System.out.println("My build is successful");
 	}
 
 }
