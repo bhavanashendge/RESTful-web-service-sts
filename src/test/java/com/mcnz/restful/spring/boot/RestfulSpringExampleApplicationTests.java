@@ -11,7 +11,7 @@ public class RestfulSpringExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("My build is successful");
+		System.out.println("My build is successful with PR");
 	}
 
 }
