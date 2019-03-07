@@ -11,6 +11,7 @@ public class RestfulSpringExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+	hi
 	}
 
 }
